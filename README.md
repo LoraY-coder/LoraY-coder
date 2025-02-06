@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LoraY-coder
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on ... something, hopefully soon:-)
+- 🌱 I’m currently using HTML and CSS.
+- 💞️ I’m looking to collaborate on some web development projects. 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
